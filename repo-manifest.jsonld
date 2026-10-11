@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/psf/strategy/commit/dc011d930c8a53e864a3ff77be1ccdcac2f76709",
       "git:hexsha": "dc011d930c8a53e864a3ff77be1ccdcac2f76709",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
