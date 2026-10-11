@@ -1,0 +1,21 @@
+{
+  "manifest_version": "1.0",
+  "org": "psf",
+  "repo": "strategy",
+  "versions": [
+    {
+      "commit": "dc011d930c8a53e864a3ff77be1ccdcac2f76709",
+      "parsed_at": "2026-10-11T06:22:30.686433+00:00",
+      "filetree": "filetree/dc011d930c8a53e864a3ff77be1ccdcac2f76709.nq.gz",
+      "blobs": [
+        "blob/5d00e843a6c90921ad07b01184cfca27db14adec.nq.gz",
+        "blob/8c38ccc9e2c037908f2dbe1117fe64907057b549.nq.gz",
+        "blob/0c14ece2e0e7958d05c47e8a0ede005e4371788e.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
